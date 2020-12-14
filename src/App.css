@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fafafa;
+}
+
+.nav_bar {
+  background-color: white;
+  object-fit: contain;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-bottom: 12px;
+  border-bottom: 1px solid lightgray;
+}
+
+.logo {
+  width: 120px;
+}
+
+h5 {
+  padding: 20px;
+}
+
+.user_caption {
+  padding: 20px;
+  font-size: 10pt;
+}
+
+.post {
+  width: 400px;
+  border: 1px solid lightgray;
+  margin: 10px;
+  border-radius: 2px;
+  align-content: center;
+}
+
+.post_image {
+  width: 100%;
+  object-fit: contain;
+}
